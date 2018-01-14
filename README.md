@@ -22,3 +22,6 @@ Today I spent whole day in class, and at night I participated in Birthday of Dhi
 Today I went to class for whole day, where I had Instrumentation class and did my Instrumentation practical
 
 -----
+
+#### January 15, 2018
+In the calculation of PID, the previous input should be set to the current input for the first time while starting the program.
