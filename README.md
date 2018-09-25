@@ -14,12 +14,11 @@ Today I learnt about basics of ```kalman filter``` , did my Instrumentation lab,
 -----
 ##### November 27, 2017
 
-Today I spent whole day in class, and at night I participated in Birthday of Dhiraj Basnet dai and Sanyog lamsal.
 
 -----
 ##### November 28, 2017
 
-Today I went to class for whole day, where I had Instrumentation class and did my Instrumentation practical
+Today I did my Instrumentation practical
 
 -----
 
